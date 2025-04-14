@@ -1,0 +1,47 @@
+{
+    "menu":{
+        "first":"我们",
+        "second": "常见问题解答",
+        "third": "联系方式"
+    },
+    "legal":{
+        "title-1":"1. Introducción",
+        "article-1":"Bienvenido a medinagroup.cn (en adelante,'el Sitio Web'). Este documento establece los Términos Legales y Condiciones de Uso que rigen el acceso y uso de nuestro Sitio Web. Al acceder o utilizar este Sitio Web, usted acepta estar sujeto a estos términos. Si no está de acuerdo con alguno de ellos, le pedimos que no utilice nuestro Sitio Web.",
+        "title-2":"2. Propiedad Intelectual",
+        "article-2":"Todo el contenido del Sitio Web, incluyendo, pero no limitado a textos, gráficos, logotipos, imágenes, videos, software y diseños, es propiedad de Medina Group o de sus licenciantes y está protegido por leyes de propiedad intelectual aplicables. Queda estrictamente prohibida la reproducción, distribución o modificación sin autorización previa por escrito.",
+        "title-3":"3. Uso Permitido",
+        "article-3":"El uso del Sitio Web está limitado a propósitos legales y personales. Queda prohibido:<br>- Usar el Sitio Web para actividades ilegales o no autorizadas.<br>- Acceder o intentar acceder a áreas restringidas del Sitio Web.<br>- Utilizar el contenido del Sitio Web con fines comerciales sin autorización.",
+        "title-4":"4. Exoneración de Responsabilidad",
+        "article-4":"Medina Group no garantiza la disponibilidad, exactitud o integridad del contenido del Sitio Web. No nos hacemos responsables por daños o pérdidas derivadas del uso o la imposibilidad de uso del Sitio Web.",
+        "title-5":"5. Enlaces a Terceros",
+        "article-5":"El Sitio Web puede contener enlaces a sitios de terceros que no son controlados por Medina Group. No nos hacemos responsables por el contenido, términos legales ni prácticas de privacidad de dichos sitios.",
+        "title-6":"6. Privacidad y Datos Personales",
+        "article-6":"El uso de este Sitio Web implica la aceptación de nuestra Política de Privacidad, la cual detalla cómo recolectamos, utilizamos y protegemos sus datos personales.",
+        "title-7":"7. Modificaciones a los Términos y Condiciones",
+        "article-7":"Medina Group se reserva el derecho de modificar estos Términos Legales y Condiciones de Uso en cualquier momento. Las modificaciones serán efectivas a partir de su publicación en el Sitio Web. Es responsabilidad del usuario revisar periódicamente este documento.",
+        "title-8":"8. Legislación Aplicable y Jurisdicción",
+        "article-8":"Estos términos se rigen por las leyes de la República del Perú. Cualquier disputa que surja en relación con estos términos se someterá a la jurisdicción exclusiva de los tribunales de Lima, Perú.",
+        "title-9":"9. Contacto",
+        "article-9":"Si tiene alguna pregunta o inquietud sobre estos Términos Legales y Condiciones de Uso, puede contactarnos a través del correo electrónico:<strong>info@medinagroup.cn</strong>"
+    },
+    "information":{
+        "title":"法律",
+        "text":"Medina 集团成立于 2014 年，位于秘鲁利马市，在 R.U.C. 注册。 20604671923。它由一支药物化学家团队和一家获得 BPA（良好储存规范）认证的药店组成)."
+    },
+    "legal":{
+        "title":"Legal",
+        "first":"•       法律使用条款和条件",
+        "second":"•       我们是谁",
+        "third":"•       出口文件"
+    },
+
+    "contact":{
+        "title":"联系方式"
+    },
+    "copyright":{
+        "text":"© 2024 Medina Group - 保留所有权利"
+    },
+    "joinchat":{
+        "text":"您还有什么疑问吗？</br>写信给我们！"
+    }
+}

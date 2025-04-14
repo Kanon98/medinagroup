@@ -1,0 +1,187 @@
+{
+    "menu":{
+        "first":"About Us",
+        "second": "FAQ",
+        "third": "Contact"
+    },
+    "banner":{
+        "text":
+            "Safe entry of medical devices in <span>Perú.</span><br> Regulatory representation of health records"
+    },
+    "intro":{
+        "title":"FREELY ENTER THE PERUVIAN MARKET"
+    },
+    "intro-1":{
+        "first":
+            "PROFESSIONALISM",
+        "second":
+            "Worried about ignorance of Peruvian regulations?",
+        "third":
+            "We have more than <span>10 years of experience</span> in advising and managing health permits and authorizations for the import, marketing and distribution of medical devices in Peru. We take care of each stage of the regulatory process, from the preparation of documents to obtaining health records.",
+        "button":"Read More"
+    },
+    "intro-2":{
+        "first":
+            "FLEXIBILITY",
+        "second":
+            "Conditioned to a single Distributor?",
+        "third":
+            "We give you freedom and control. We eliminate the barriers that limit medical device manufacturers and exporters, allowing you to register your products with our Pharmacy and work with multiple distributors simultaneously. We guarantee <span>total and absolute confidentiality</span> in the handling of your documents and data, giving you the peace of mind and security you need.",
+        "button":"Read More"
+    },
+    "intro-3":{
+        "first":
+            "SECURITY",
+        "second":
+            "Do you have problems obtaining health records in Peru?",
+        "third":
+            "Forget about obstacles and complications. We have the knowledge, experience and ability to act with <span>speed and efficiency</span>, favoring the safe entry of your products into the Peruvian market. Our specialized team ensures that every step is efficient, transparent and available to you at all times.",
+        "button":"Read More"
+    },
+    "steps-title":{
+        "title":"steps to enter your products into Peru"
+    },
+    "step-1":{
+        "title":"Contact us now!",
+        "paragraph":"We are ready to assist you 24/7 and answer your questions."
+    },
+    "step-2":{
+        "title":"send your documents",
+        "paragraph":"We do the rest of the regulatory process."
+    },
+    "step-3":{
+        "title":"Dispatch your merchandise",
+        "paragraph":"You are now ready to send your products to Peru."
+    },
+    "documents":{
+        "title":"legal requirements",
+        "paragraph":"At <span>Medina Group</span> we understand that your time is valuable. That is why we have prepared a clear and complete list of the documents necessary for your products to comply with Peruvian regulations. We take care of the entire process with maximum priority and total efficiency.",
+        "button":"Download"
+    },
+    "summary":{
+        "button":"See more",
+        "title":"What differentiates Medina Group from other consulting services?",
+        "paragraph":"At <span>Medina Group</span> we transform regulatory challenges into simple and efficient solutions. We offer a comprehensive and personalized approach, designed to address regulatory barriers with INTEGRITY, PROFESSIONALISM and CONFIDENTIALITY. Our goal is for your products to enter the Peruvian market quickly, safely and efficiently.",
+        "contact":"Contact"
+    },
+    "staff":{
+        "title":"Our Team"
+    },
+    "profile-1":{
+        "rol":
+            "Manager",
+        "description":
+            "Pharmaceutical Chemist with a solid track record in healthcare regulations and a consultant for international companies. Expert in the import of health, beauty, and personal care products."
+    },
+    "profile-2":{
+        "rol":
+            "Regulatory Director",
+        "description":
+            "Pharmaceutical Chemist with experience in healthcare regulation. Leader of the medical device registration team, specializing in managing healthcare authorization processes."
+    },
+    "profile-3":{
+        "rol":
+            "Commercial Director",
+        "description":
+            "Medical Representative and Sales Manager. Her focus on developing strong business relationships and her ability to achieve strategic goals make her a key pillar of the team."
+    },
+    "requirements":{
+        "title":"It is important that you know this"
+    },
+    "requirement-1":{
+        "title":"FREEDOM OF DISTRIBUTION",
+        "text":"You can have one or more authorized distributors at a time, who can import your products to Peru with the necessary permits."
+    },
+
+    "requirement-2":{
+        "title":"CUSTOMS DOCUMENTATION",
+        "text":"It is crucial to direct all customs documentation in the name of the company that will import your products to Peru to avoid inconveniences."
+    },
+    "requirement-3":{
+        "title":"LANGUAGE",
+        "text":"For health registration procedures, technical information is presented in the original language, but must be accompanied by a simple translation into Spanish."
+    },
+    "requirement-4":{
+        "title":"VALIDITY OF CERTIFICATIONS",
+        "text":"Make sure your certifications (such as ISO 13485) are current and comply with Peruvian regulatory requirements."
+    },
+    "faq":{
+        "title":"F.A.Q.",
+        "text":"If you have any questions, we suggest you check if they are in our FAQ bank. If not, please write to us at our WeChat number or send us a message to the email: info@medinagroup.cn"
+    },
+    "faq-1":{
+        "question":"What permits are required to import medical devices to Peru?",
+        "aswer":"To import medical devices into Peru, several health permits and authorizations are required, including, among others, the health registration issued by the health authority. At Medina Group, we manage all the necessary requirements to ensure that your devices comply with local regulations and are ready for distribution."
+    },
+    "faq-2":{
+        "question":"How long does it take to obtain the necessary permits?",
+        "aswer":"Processing time may vary depending on the type of device and the complexity of the process. Permits can generally take between 3-6 months, but our team is constantly monitoring to expedite the process as much as possible."
+    },
+    "faq-3":{
+        "question":"What are the main steps in the process of obtaining health registrations for medical devices?",
+        "aswer":"The process is divided into several key stages: gathering and preparing documents, submitting and presenting the dossier to DIGEMID, following the regulatory assessment and finally obtaining the health registration. At each step, Medina Group provides comprehensive guidance and a consultancy service to ensure success."
+    },
+    "faq-4":{
+        "question":"Can Medina Group help me with the translation and adaptation of documents into Spanish?",
+        "aswer":"Yes, at Medina Group we offer translation and adaptation services for documents required to comply with Peruvian regulations. We have translators specialized in technical and medical terminology, which ensures the accuracy and compliance of all documents."
+    },
+    "faq-5":{
+        "question":"Can I get an estimate of the costs associated with the import process?",
+        "aswer":"Costs may vary depending on the type and quantity of devices to be imported, as well as any additional services required. However, at Medina Group we provide a clear and detailed estimate from the start, along with a breakdown of each regulatory fee and service."
+    },
+    "faq-6":{
+        "question":"How can I ensure that my product meets Peruvian technical requirements?",
+        "aswer":"Our team of consultants reviews the technical specifications of your devices to confirm that they comply with the requirements of Peruvian regulations. If necessary, we advise you on adjustments or improvements to ensure that the product obtains authorization without problems."
+    },
+    "faq-7":{
+        "question":"What happens if regulations change during the process?",
+        "aswer":"In the event of regulatory changes, our team will notify you immediately and we will adjust any necessary documents or procedures to comply with the new regulations. At Medina Group, we monitor updates to ensure that you are always up to date."
+    },
+    "faq-8":{
+        "question":"Does Medina Group handle the distribution process after import?",
+        "aswer":"We specialize in obtaining health permits and authorizations, but we can put you in contact with reliable partners who take care of local distribution, ensuring that the import process is completed successfully until reaching the Peruvian market."
+    },
+    "faq-9":{
+        "question":"How can I communicate with an advisor in my language and time zone?",
+        "aswer":"We have a multilingual team and flexible hours to serve our customers in Chinese and at times compatible with the Chinese time zone, ensuring a smooth and convenient service. This can be done through prior coordination."
+    },
+    "faq-10":{
+        "question":"What sets Medina Group apart from other consulting services?",
+        "aswer":"At Medina Group we offer a personalized and comprehensive approach, with more than 10 years of experience in the Peruvian market. We take care of all regulatory aspects and provide comprehensive advice, aimed at resolving any concern, from documentation to compliance with regulations, so that the process is simple and safe."
+    },
+    "testimonials":{
+        "title":"Our clients"
+    },
+    "testimonial-1":{
+        "text":"I am very satisfied with the Regulatory Representation service we received for our Cryosuccess product. Thanks to the experience and professionalism of the team, we were able to enter the Peruvian market efficiently and without setbacks. Their advice has been key to complying with all regulatory requirements and achieving our business objectives. I recommend their services without hesitation.",
+        "role":"Commercial Manager | Cryosuccess"
+    },
+    "testimonial-2":{
+        "text":"From a regulatory perspective, we have had a great experience working with the Medina Group. We have successfully completed numerous projects that would have been difficult to achieve without their support. The professional team at the Medina Group provided us with support and assistance at every stage of the regulatory process we undertook.",
+        "role":"Regulatory Affairs Manager - LATAM | Sciences of Life SRS"
+    },
+    "testimonial-3":{
+        "text":"For us, as experts in customs brokerage, working with the Medina Group is key to the success of our clients, allowing them to efficiently obtain the necessary licenses and permits to facilitate the importation of their products into Peru and properly nationalize them.",
+        "role":"General Manager | Prestige Cargo"
+    },
+    "information":{
+        "title":"Information",
+        "text":"Medina Group, founded in 2014 and located in the city of Lima, Peru, with R.U.C. registration 20604671923. It is made up of a team of pharmaceutical chemists and a BPA (Good Storage Practices) certified drugstore."
+    },
+    "legal":{
+        "title":"Legal",
+        "first":"•       Legal Terms and Conditions of Use",
+        "second":"•       Who we are?",
+        "third":"•       Export documents"
+    },
+
+    "contact":{
+        "title":"Contact"
+    },
+    "copyright":{
+        "text":"© 2024 Medina Group - All Rights Reserved"
+    },
+    "joinchat":{
+        "text":"Any questions?</br>Write to us!"
+    }
+}

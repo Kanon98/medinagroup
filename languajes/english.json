@@ -1,0 +1,78 @@
+{
+    "menu":{
+        "first":"About Us",
+        "second": "FAQ",
+        "third": "Contact"
+    },
+    "intro":{
+        "title":"Get to know us",
+        "text":"Medina Group is a trusted strategic partner for international manufacturers and suppliers seeking to enter the Peruvian market. We specialize in the medical device sector, providing comprehensive and customized solutions since 2014. Our goal is to transform regulatory barriers into opportunities, ensuring a safe, fast, and efficient import process."
+    },
+    "pilares":{
+        "title":"Our Pillars",
+        "subtitle-1":"Professionalism",
+        "subtitle-2":"Flexibility",
+        "subtitle-3":"Security",
+        "text-1":"Over 10 years of experience in handling health permits and regulations.",
+        "text-2":"We offer the freedom to work with multiple distributors without limitations.",
+        "text-3":"Confidential handling of documents and data, ensuring peace of mind throughout the process."
+    },
+    "solutions":{
+        "title":"What we can do for you",
+        "subtitle-1":"Solutions for your business:",
+        "subtitle-2":"Solutions for your product:",
+        "subtitle-3":"Solutions for your market:",
+        "h4-1":"Creation of Drugstore:",
+        "h4-2":"Pharmaceutical Regulatory Outsourcing:",
+        "h4-3":"Regulatory Representation:",
+        "h4-4":"Obtaining Health Records:",
+        "h4-5":"Safe Market Entry:",
+        "h4-6":"Customs Management:",
+        "text-1":"We help you establish a pharmacy that complies with Good Storage Practices (GSP), essential for importing and marketing in Peru.",
+        "text-2":"We take care of the documentation and regulatory aspects, allowing you to focus on your business operations.",
+        "text-3":"We represent your products before Peruvian authorities, handling health registrations and notifications quickly and accurately.",
+        "text-4":"We prepare and submit the necessary technical files, ensuring that your products comply with local regulations.",
+        "text-5":"From the formation of your company to the sanitary approval of your products, we are with you every step of the way.",
+        "text-6":"We have strategic partners in customs brokerage for an efficient import process."
+    },
+    "why":{
+        "title":"Why choose Medina Group",
+        "text":"<span>• Proven experience:</span> We have worked with companies around the world, successfully obtaining health registrations and permits for their products.<br><br><span>• Servicio integral:</span> We provide consulting services from document preparation to distribution in the Peruvian market.<br><br><span>• Continuous innovation:</span> We've updated our service portfolio to adapt to market needs.<br><br><span>• Personalized and multilingual attention:</span> We offer Chinese language support based on your time zone."
+    },
+    "vision":{
+        "title":"Vision",
+        "text":"To be recognized as the leading consulting firm in Latin America for the management of health permits and authorizations, we stand out for offering innovative, secure, and customized solutions that transform regulatory challenges into opportunities for success for our international clients."
+    },
+    "mission":{
+        "title":"Mission",
+        "text":"Facilitate the safe entry of medical devices into the Peruvian market. We focus on providing comprehensive advice, adapting to each client's needs with professionalism, flexibility, and confidentiality, ensuring regulatory compliance and efficiency at every stage of the process."
+    },
+    "purpose":{
+        "title":"Purpose",
+        "text":"Contribute to people's well-being and quality of life by enabling innovative, high-quality products to reach the Peruvian market, offering our international customers a hassle-free, efficient, and reliable experience in their import and health registration processes."
+    },
+    "promise":{
+        "title":"Our promise",
+        "text":"At Medina Group, we understand the importance of efficiently complying with regulatory requirements. We take care of all the details so you can focus on your business. Our commitment is to ensure your products reach the Peruvian market without complications, offering excellent service backed by years of experience. <br><strong>Trust Medina Group as your gateway to the Peruvian market!</strong>"
+    },
+    "information":{
+        "title":"Information",
+        "text":"Medina Group, founded in 2014 and located in the city of Lima, Peru, with R.U.C. registration 20604671923. It is made up of a team of pharmaceutical chemists and a BPA (Good Storage Practices) certified drugstore."
+    },
+    "legal":{
+        "title":"Legal",
+        "first":"•       Legal Terms and Conditions of Use",
+        "second":"•       Who we are?",
+        "third":"•       Export documents"
+    },
+
+    "contact":{
+        "title":"Contact"
+    },
+    "copyright":{
+        "text":"© 2024 Medina Group - All Rights Reserved"
+    },
+    "joinchat":{
+        "text":"Any questions?</br>Write to us!"
+    }
+}

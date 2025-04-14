@@ -1,0 +1,187 @@
+{
+    "menu":{
+        "first":"Nosotros",
+        "second": "Preguntas Frecuentes",
+        "third": "Contacto"
+    },
+    "banner":{
+        "text":
+            "Ingreso seguro de dispositivos médicos en <span>Perú</span><br>Representación regulatoria de registros sanitarios"
+    },
+    "intro":{
+        "title":"INGRESA LIBREMENTE AL MERCADO PERUANO"
+    },
+    "intro-1":{
+        "first":
+            "PROFESIONALISMO",
+        "second":
+            "¿Preocupado por el desconocimiento de las normativas peruanas?",
+        "third":
+            "Contamos con más de <span>10 años de experiencia</span>  en asesoría y gestión de permisos y autorizaciones sanitarias para la importación, comercialización y distribución de dispositivos médicos en Perú. Nos encargamos de cada etapa del proceso regulatorio desde la preparación de los documentos hasta la obtención de los registros sanitarios.",
+        "button":"Lee más"
+    },
+    "intro-2":{
+        "first":
+            "FLEXIBILIDAD",
+        "second":
+            "¿Condicionado a un solo Distribuidor?",
+        "third":
+            "Te damos libertad y control. Eliminamos las barreras que limitan a los fabricantes y exportadores de dispositivos médicos, permitiéndote registrar tus productos con nuestra Droguería y trabajar con múltiples distribuidores simultáneamente. Garantizamos <span>total y absoluta confidencialidad</span> en el manejo de tus documentos y datos, brindándote la tranquilidad y seguridad que necesitas.",
+        "button":"Lee más"
+    },
+    "intro-3":{
+        "first":
+            "SEGURIDAD",
+        "second":
+            "¿Inconvenientes para la obtención de registros sanitarios en Perú?",
+        "third":
+            "Olvídate de los obstáculos y las complicaciones. Tenemos el conocimiento, la experiencia y la capacidad para actuar con <span>rapidez y eficiencia</span>, favoreciendo el ingreso seguro de tus productos al mercado peruano. Nuestro equipo especializado se asegura de que cada paso sea eficiente, transparente y esté a tu disposición en todo momento.",
+        "button":"Lee más"
+    },
+    "steps-title":{
+        "title":"pasos para ingresar tus productos al perú"
+    },
+    "step-1":{
+        "title":"¡Contáctanos ahora!",
+        "paragraph":"Estamos listos para atenderte 24/7 y resolver tus dudas."
+    },
+    "step-2":{
+        "title":"envía tus documentos",
+        "paragraph":"Nosotros hacemos el resto del proceso regulatorio."
+    },
+    "step-3":{
+        "title":"Despacha tu mercancía",
+        "paragraph":"Ya estás listo para enviar tus productos al Perú."
+    },
+    "documents":{
+        "title":"Requisitos legales",
+        "paragraph":"En <span>Medina Group</span> entendemos que tu tiempo es valioso. Por eso hemos preparado una lista clara y completa de los documentos necesarios para que tus productos cumplan con las regulaciones peruanas. Nosotros nos encargamos de todo el proceso con máxima prioridad y total eficiencia.",
+        "button":"Descargar"
+    },
+    "summary":{
+        "button":"Ver<br>más",
+        "title":"¿Qué diferencia a Medina Group de otros servicios de consultoría?",
+        "paragraph":"En <span>Medina Group</span> transformamos los desafíos regulatorios en soluciones simples y eficientes. Ofrecemos un enfoque integral y personalizado, diseñado para enfrentar las barreras regulatorias con INTEGRIDAD, PROFESIONALISMO y CONFIDENCIALIDAD. Nuestro objetivo es que tus productos ingresen al mercado peruano, de una manera rápida, segura y eficiente.",
+        "contact":"Contacto"
+    },
+    "staff":{
+        "title":"Nuestro Equipo"
+    },
+    "profile-1":{
+        "rol":
+            "Gerente",
+        "description":
+            "Químico Farmacéutico con sólida trayectoria en regulación sanitaria y consultor de empresas internacionales. Experto en la importación de productos de salud, belleza y cuidado personal."
+    },
+    "profile-2":{
+        "rol":
+            "Director Regulatorio",
+        "description":
+            "Químico Farmacéutico con experiencia en regulación sanitaria. Líder del equipo de registro de dispositivos médicos, especializado en gestionar procesos de autorización sanitaria."
+    },
+    "profile-3":{
+        "rol":
+            "Director Comercial",
+        "description":
+            "Representante Médico y Gestora de Ventas. Su enfoque en el desarrollo de relaciones comerciales sólidas y su habilidad para alcanzar objetivos estratégicos la convierten en un pilar fundamental del equipo"
+    },
+    "requirements":{
+        "title":"Es importante que lo sepas"
+    },
+    "requirement-1":{
+        "title":"LIBERTAD DE ELECCIÓN",
+        "text":"Puedes tener uno o más distribuidores autorizados a la vez, quienes podrán importar tus productos al Perú con los permisos necesarios."
+    },
+
+    "requirement-2":{
+        "title":"DOCUMENTACIÓN",
+        "text":"Es crucial dirigir toda la documentación aduanera a nombre de la empresa que realizará la importación de tus productos al Perú para evitar inconvenientes."
+    },
+    "requirement-3":{
+        "title":"IDIOMA",
+        "text":"Para el trámite de registros sanitarios, la información técnica se presenta en el idioma original, pero debe estar acompañada de una traducción simple al español."
+    },
+    "requirement-4":{
+        "title":"CERTIFICACIONES",
+        "text":"Asegúrate de que tus certificaciones (como ISO 13485) estén vigentes y cumplan con las exigencias regulatorias peruanas."
+    },
+    "faq":{
+        "title":"Preguntas frecuentes",
+        "text":"De tener alguna duda, le sugerimos revisar si ésta se encuentra en nuestro banco de preguntas frecuentes. De no ser así, escríbanos a nuestro número de WeChat o envíenos unmensaje al correo: info@medinagroup.cn"
+    },
+    "faq-1":{
+        "question": "¿Qué permisos son necesarios para importar dispositivos médicos al Perú?",
+        "aswer":"Para importar dispositivos médicos al Perú, se necesitan varios permisos y autorizaciones sanitarias que incluyen, entre otros, el registro sanitario emitido por la autoridad de salud. En Medina Group, gestionamos todos los requisitos necesarios para asegurar que tus dispositivos cumplan con las normativas locales y estén listos para su distribución."
+    },
+    "faq-2":{
+        "question":"¿Cuánto tiempo toma obtener los permisos necesarios?",
+        "aswer":"El tiempo de procesamiento puede variar según el tipo de dispositivo y la complejidad del trámite. Generalmente, los permisos pueden tardar entre 3 y 6 meses, pero nuestro equipo se encarga del seguimiento constante para agilizar el proceso tanto como sea posible."
+    },
+    "faq-3":{
+        "question":"¿Cuáles son los pasos principales del proceso de obtención de registros sanitarios para dispositivos médicos?",
+        "aswer":"El proceso se divide en varias etapas clave: recopilación y preparación de documentos, sometimiento y presentación del dossier a DIGEMID, seguimiento de la evaluación regulatoria y obtención final del registro sanitario. En cada paso, Medina Group proporciona una guía completa y un servicio de consultoría para asegurar el éxito."
+    },
+    "faq-4":{
+        "question":"¿Medina Group puede ayudarme con la traducción y adaptación de documentos al español?",
+        "aswer":"Sí, en Medina Group ofrecemos el servicio de traducción y adaptación de documentos necesarios para cumplir con las normativas peruanas. Contamos con traductores especializados en terminología técnica y médica, lo cual asegura la precisión y conformidad de todos los documentos."
+    },
+    "faq-5":{
+        "question":"¿Puedo obtener una estimación de los costos asociados con el proceso de importación?",
+        "aswer":"Los costos pueden variar según el tipo y la cantidad de dispositivos a importar, así como por los servicios adicionales requeridos. Sin embargo, en Medina Group ofrecemos una estimación clara y detallada desde el inicio, junto con un desglose de cada tarifa regulatoria y servicio."
+    },
+    "faq-6":{
+        "question":"¿Cómo puedo asegurarme de que mi producto cumple con los requisitos técnicos peruanos?",
+        "aswer":"Nuestro equipo de consultores revisa las especificaciones técnicas de tus dispositivos para confirmar que cumplan con los requisitos de las normativas peruanas. Si es necesario, te asesoramos sobre ajustes o mejoras para garantizar que el producto obtenga la autorización sin problemas."
+    },
+    "faq-7":{
+        "question":"¿Qué sucede si cambian las normativas durante el proceso?",
+        "aswer":"En caso de cambios regulatorios, nuestro equipo te notificará de inmediato y ajustaremos cualquier documento o trámite necesario para cumplir con las nuevas normativas. En Medina Group, mantenemos monitoreadas las actualizaciones para garantizar que estés siempre al día."
+    },
+    "faq-8":{
+        "question":"¿Medina Group se encarga del proceso de distribución después de la importación?",
+        "aswer":"Nos especializamos en la obtención de permisos y autorizaciones sanitarias, pero podemos ponerte en contacto con socios confiables que se encarguen de la distribución local, asegurando que el proceso de importación se complete de manera exitosa hasta la llegada al mercado peruano."
+    },
+    "faq-9":{
+        "question":"¿Cómo puedo comunicarme con un asesor en mi idioma y en mi zona horaria?",
+        "aswer":"Contamos con un equipo multilingüe y flexibilidad horaria para atender a nuestros clientes en idioma chino y en horarios compatibles con la zona horaria de China, asegurando un servicio fluido y cómodo. Esto lo podemos realizar mediante una coordinación previa."
+    },
+    "faq-10":{
+        "question":"¿Qué diferencia a Medina Group de otros servicios de consultoría?",
+        "aswer":"En Medina Group ofrecemos un enfoque personalizado y completo, con más de 10 años de experiencia en el mercado peruano. Nos encargamos de todos los aspectos regulatorios y brindamos una asesoría integral, orientada a resolver cualquier preocupación, desde la documentación hasta el cumplimiento de normativas, para que el proceso sea sencillo y seguro."
+    },
+    "testimonials":{
+        "title":"Nuestros clientes"
+    },
+    "testimonial-1":{
+        "text":"Estoy muy satisfecho con el servicio de Representación Regulatoria que recibimos para nuestro producto Cryosuccess. Gracias a la experiencia y profesionalismo del equipo, logramos ingresar al mercado peruano de manera eficiente y sin contratiempos. Su asesoría ha sido clave para cumplir con todos los requisitos regulatorios y alcanzar nuestros objetivos comerciales. Recomiendo sus servicios sin dudarlo",
+        "role":"Gerente Comercial | Cryosuccess"
+    },
+    "testimonial-2":{
+        "text":"Desde una perspectiva regulatoria, hemos tenido una gran experiencia trabajando con el Grupo Medina. Hemos completado con éxito numerosos proyectos que habrían sido difíciles de lograr sin su apoyo. El equipo profesional del Grupo Medina nos brindó apoyo y asistencia en cada etapa del proceso regulatorio que realizamos.",
+        "role":"Gerente de Asuntos Regulatorios | Sciences of Life SRS"
+    },
+    "testimonial-3":{
+        "text":"Para nosotros, como expertos en intermediación aduanera, trabajar con el Grupo Medina es clave para el éxito de nuestros clientes, permitiéndoles obtener eficientemente las licencias y permisos necesarios para facilitar la importación de sus productos al Perú y nacionalizarlos adecuadamente.",
+        "role":"Gerente General | Prestige Cargo"
+    },
+    "information":{
+        "title":"Información",
+        "text":"Medina Group, fundada en 2014 y ubicada en la ciudad de Lima, Perú, con registro R.U.C. 20604671923. Está conformado por un equipo de químicos farmacéuticos y una droguería certificada en BPA (Buenas Prácticas de Almacenamiento)."
+    },
+    "legal":{
+        "title":"Legal",
+        "first":"•       Términos legales y Condiciones de uso",
+        "second":"•       Quiénes somos",
+        "third":"•       Documentos de exportación"
+    },
+
+    "contact":{
+        "title":"Contacto"
+    },
+    "copyright":{
+        "text":"© 2024 Medina Group - Derechos Reservados"
+    },
+    "joinchat":{
+        "text":"¿Tienes alguna duda?</br>¡Escríbenos!"
+    }
+}

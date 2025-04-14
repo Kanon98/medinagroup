@@ -1,0 +1,71 @@
+{
+    "menu":{
+        "first":"Nosotros",
+        "second": "Preguntas Frecuentes",
+        "third": "Contacto"
+    },
+    "faq":{
+        "title":"F.A.Q.",
+        "text":"If you have any questions, we suggest you check if they are in our FAQ bank. If not, please write to us at our WeChat number or send us a message to the email: info@medinagroup.cn"
+    },
+    "faq-1":{
+        "question":"What permits are required to import medical devices to Peru?",
+        "aswer":"To import medical devices into Peru, several health permits and authorizations are required, including, among others, the health registration issued by the health authority. At Medina Group, we manage all the necessary requirements to ensure that your devices comply with local regulations and are ready for distribution."
+    },
+    "faq-2":{
+        "question":"How long does it take to obtain the necessary permits?",
+        "aswer":"Processing time may vary depending on the type of device and the complexity of the process. Permits can generally take between 3-6 months, but our team is constantly monitoring to expedite the process as much as possible."
+    },
+    "faq-3":{
+        "question":"What are the main steps in the process of obtaining health registrations for medical devices?",
+        "aswer":"The process is divided into several key stages: gathering and preparing documents, submitting and presenting the dossier to DIGEMID, following the regulatory assessment and finally obtaining the health registration. At each step, Medina Group provides comprehensive guidance and a consultancy service to ensure success."
+    },
+    "faq-4":{
+        "question":"Can Medina Group help me with the translation and adaptation of documents into Spanish?",
+        "aswer":"Yes, at Medina Group we offer translation and adaptation services for documents required to comply with Peruvian regulations. We have translators specialized in technical and medical terminology, which ensures the accuracy and compliance of all documents."
+    },
+    "faq-5":{
+        "question":"Can I get an estimate of the costs associated with the import process?",
+        "aswer":"Costs may vary depending on the type and quantity of devices to be imported, as well as any additional services required. However, at Medina Group we provide a clear and detailed estimate from the start, along with a breakdown of each regulatory fee and service."
+    },
+    "faq-6":{
+        "question":"How can I ensure that my product meets Peruvian technical requirements?",
+        "aswer":"Our team of consultants reviews the technical specifications of your devices to confirm that they comply with the requirements of Peruvian regulations. If necessary, we advise you on adjustments or improvements to ensure that the product obtains authorization without problems."
+    },
+    "faq-7":{
+        "question":"What happens if regulations change during the process?",
+        "aswer":"In the event of regulatory changes, our team will notify you immediately and we will adjust any necessary documents or procedures to comply with the new regulations. At Medina Group, we monitor updates to ensure that you are always up to date."
+    },
+    "faq-8":{
+        "question":"Does Medina Group handle the distribution process after import?",
+        "aswer":"We specialize in obtaining health permits and authorizations, but we can put you in contact with reliable partners who take care of local distribution, ensuring that the import process is completed successfully until reaching the Peruvian market."
+    },
+    "faq-9":{
+        "question":"How can I communicate with an advisor in my language and time zone?",
+        "aswer":"We have a multilingual team and flexible hours to serve our customers in Chinese and at times compatible with the Chinese time zone, ensuring a smooth and convenient service. This can be done through prior coordination."
+    },
+    "faq-10":{
+        "question":"What sets Medina Group apart from other consulting services?",
+        "aswer":"At Medina Group we offer a personalized and comprehensive approach, with more than 10 years of experience in the Peruvian market. We take care of all regulatory aspects and provide comprehensive advice, aimed at resolving any concern, from documentation to compliance with regulations, so that the process is simple and safe."
+    },
+    "information":{
+        "title":"Información",
+        "text":"Medina Group, fundada en 2014 y ubicada en la ciudad de Lima, Perú, con registro R.U.C. 20604671923. Está conformado por un equipo de químicos farmacéuticos y una droguería certificada en BPA (Buenas Prácticas de Almacenamiento)."
+    },
+    "legal":{
+        "title":"Legal",
+        "first":"•       Términos legales y Condiciones de uso",
+        "second":"•       Quiénes somos",
+        "third":"•       Documentos de exportación"
+    },
+
+    "contact":{
+        "title":"Contacto"
+    },
+    "copyright":{
+        "text":"© 2024 Medina Group - Derechos Reservados"
+    },
+    "joinchat":{
+        "text":"¿Tienes alguna duda?</br>¡Escríbenos!"
+    }
+}

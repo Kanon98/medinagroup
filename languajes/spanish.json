@@ -1,0 +1,78 @@
+{
+    "menu":{
+        "first":"Nosotros",
+        "second": "Preguntas Frecuentes",
+        "third": "Contacto"
+    },
+    "intro":{
+        "title":"Conócenos",
+        "text":"Medina Group es un socio estratégico confiable para fabricantes y proveedores internacionales que buscan ingresar al mercado peruano. Nos especializamos en el sector de dispositivos médicos, brindando soluciones integrales y personalizadas desde 2014. Nuestro objetivo es transformar las barreras regulatorias en oportunidades, garantizando un proceso de importación seguro, rápido y eficiente."
+    },
+    "pilares":{
+        "title":"Nuestros Pilares",
+        "subtitle-1":"Profesionalismo",
+        "subtitle-2":"Flexibilidad",
+        "subtitle-3":"Seguridad",
+        "text-1":"Más de 10 años de experiencia en el manejo de permisos y regulaciones sanitarias.",
+        "text-2":"Ofrecemos libertad para trabajar con múltiples distribuidores sin limitaciones.",
+        "text-3":"Manejo confidencial de documentos y datos, asegurando tranquilidad en el proceso."
+    },
+    "solutions":{
+        "title":"Lo que podemos hacer por usted",
+        "subtitle-1":"Soluciones para su empresa",
+        "subtitle-2":"Soluciones para su producto:",
+        "subtitle-3":"Soluciones para su mercado",
+        "h4-1":"Creación de Droguería:",
+        "h4-2":"Outsourcing Regulatorio Farmacéutico:",
+        "h4-3":"Representación Regulatoria:",
+        "h4-4":"Obtención de Registros Sanitarios:",
+        "h4-5":"Ingreso Seguro al Mercado:",
+        "h4-6":"Gestión Aduanera:",
+        "text-1":"Le ayudamos a establecer una droguería que cumpla con las Buenas Prácticas de Almacenamiento (BPA), esencial para importar y comercializar en Perú.",
+        "text-2":"Nos encargamos de los aspectos documentales y regulatorios, permitiéndole enfocarse en sus operaciones comerciales.",
+        "text-3":"Representamos sus productos ante las autoridades peruanas, gestionando registros y notificaciones sanitarias con rapidez y precisión.",
+        "text-4":"Preparamos y presentamos los expedientes técnicos necesarios, asegurando que sus productos cumplan con las normativas locales.",
+        "text-5":"Desde la constitución de su empresa hasta la autorización sanitaria de sus productos, lo acompañamos en cada paso.",
+        "text-6":"Contamos con aliados estratégicos en agenciamiento aduanero para un proceso de importación eficiente."
+    },
+    "why":{
+        "title":"Por qué elegir a Medina Group",
+        "text":"<span>• Experiencia comprobada:</span> Hemos trabajado con compañías de todo el mundo, obteniendo exitosamente registros sanitarios y permisos para sus productos. <br><br><span>• Servicio integral:</span >Brindamos asesoría desde la preparación de documentos hasta la distribución en el mercado peruano.<br><br><span>• Innovación continua:</span> Actualizamos nuestro portafolio de servicios para adaptarnos a las necesidades del mercado.<br><br><span>• Atención personalizada y multilingüe:</span>Ofrecemos soporte en idioma chino ajustándonos a su zona horaria."
+    },
+    "vision":{
+        "title":"Visión",
+        "text":"Ser reconocidos como la principal consultora en Latinoamérica para la gestión de permisos y autorizaciones sanitarias, destacándonos por ofrecer soluciones innovadoras, seguras y personalizadas que transformen los desafíos regulatorios en oportunidades de éxito para nuestros clientes internacionales."
+    },
+    "mission":{
+        "title":"Misión",
+        "text":"Facilitar el ingreso seguro de dispositivos médicos al mercado peruano. Nos enfocamos en brindar asesoría integral, adaptándonos a las necesidades de cada cliente con profesionalismo, flexibilidad y confidencialidad, asegurando el cumplimiento normativo y la eficiencia en cada etapa del proceso."
+    },
+    "purpose":{
+        "title":"Propósito",
+        "text":"Contribuir al bienestar y la calidad de vida de las personas al permitir que productos innovadores y de alta calidad lleguen al mercado peruano, ofreciendo a nuestros clientes internacionales una experiencia libre de complicaciones, eficiente y confiable en sus procesos de importación y registro sanitario."
+    },
+    "promise":{
+        "title":"Nuestra promesa",
+        "text":"En Medina Group, entendemos la importancia de cumplir con los requisitos regulatorios de manera eficiente. Nos encargamos de todos los detalles para que usted pueda centrarse en su negocio. Nuestro compromiso es asegurar que sus productos lleguen al mercado peruano sin complicaciones, ofreciendo un servicio de excelencia respaldado por años de experiencia.<br><strong>¡Confíe en Medina Group como su puerta de entrada al mercado peruano!</strong>"
+    },
+    "information":{
+        "title":"Información",
+        "text":"Medina Group, fundada en 2014 y ubicada en la ciudad de Lima, Perú, con registro R.U.C. 20604671923. Está conformado por un equipo de químicos farmacéuticos y una droguería certificada en BPA (Buenas Prácticas de Almacenamiento)."
+    },
+    "legal":{
+        "title":"Legal",
+        "first":"•       Términos legales y Condiciones de uso",
+        "second":"•       Quiénes somos",
+        "third":"•       Documentos de exportación"
+    },
+
+    "contact":{
+        "title":"Contacto"
+    },
+    "copyright":{
+        "text":"© 2024 Medina Group - Derechos Reservados"
+    },
+    "joinchat":{
+        "text":"¿Tienes alguna duda?</br>¡Escríbenos!"
+    }
+}
