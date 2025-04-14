@@ -11,11 +11,6 @@
   src: url("../fonts/OpenSans-Regular.woff2") format("woff2");
 }
 
-
-// font-weight: bold;
-// font-style: normal;
-// font-display: optional;
-
 * {
   margin: 0;
   padding: 0;
@@ -212,28 +207,32 @@ body{
             @media(min-width: 1440px){
                max-width: 1280px;
             }
-            .logo__blanco{
+            .logo__link{
                 width: 10%;
                 @media(min-width: 768px){
                     width: 8%;
                 }
-                @media(min-width: 1024px){
-                    width: 8%;
-                }
                 @media(min-width: 1280px){
-                    max-width: 12%;
-                    display: none;
+                        width: 25%;
+                        transition: width .3s ease-in-out;
+                        &.scroll__logo{
+                           width: 20%;
+                        }
                 }
-            }
-            .logo__color{
-                display: none;
-                @media(min-width: 1280px){
-                    width: 25%;
+                .logo__blanco{
+                    width: 100%;
                     display: block;
-                    margin: auto;
-                    transition: width .3s ease-in-out;
-                    &.scroll__logo{
-                        width: 20%;
+                    position: relative;
+                    z-index: 1;
+                    @media(min-width: 1280px){
+                        display: none;
+                    }
+                }
+                .logo__color{
+                    display: none;
+                    @media(min-width: 1280px){
+                        display: block;
+                        margin: auto;
                     }
                 }
             }

@@ -81,7 +81,6 @@ const requirements = [...document.getElementsByClassName('requirements')]
 
 
 if( labelSelected.innerText === 'CN'){
-    console.log(labelSelected)
     for(const requirement of requirements){
         requirement.classList.toggle('margin')
     }

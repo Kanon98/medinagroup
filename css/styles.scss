@@ -187,47 +187,51 @@ body{
                 }
         }
         .header__container{
-           max-width: 90%;
-           height: 100%;
-           margin: 0 auto;
-           display: flex;
-           align-items: center;
-           justify-content: space-between;
-           margin-bottom: 5rem;
-           @media(min-width: 1024px){
-               max-width: 85%;
-           }
-           @media(min-width: 1280px){
-               max-width: 1200px;
-               margin: auto;
-               gap: 5rem;
-               transition: height .3s ease-in-out;
-           }
-           @media(min-width: 1440px){
-               max-width: 1280px;
-           }
-            .logo__blanco{
+            max-width: 90%;
+            height: 100%;
+            margin: 0 auto;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            margin-bottom: 5rem;
+            @media(min-width: 1024px){
+                max-width: 85%;
+            }
+            @media(min-width: 1280px){
+                max-width: 1200px;
+                margin: auto;
+                gap: 5rem;
+                transition: height .3s ease-in-out;
+            }
+            @media(min-width: 1440px){
+                max-width: 1280px;
+            }
+            .logo__link{
                 width: 10%;
                 @media(min-width: 768px){
                     width: 8%;
                 }
-                @media(min-width: 1024px){
-                    width: 8%;
-                }
                 @media(min-width: 1280px){
-                    max-width: 12%;
-                    display: none;
+                        width: 25%;
+                        transition: width .3s ease-in-out;
+                        &.scroll__logo{
+                           width: 20%;
+                        }
                 }
-            }
-            .logo__color{
-                display: none;
-                @media(min-width: 1280px){
-                    width: 25%;
+                .logo__blanco{
+                    width: 100%;
                     display: block;
-                    margin: auto;
-                    transition: width .3s ease-in-out;
-                    &.scroll__logo{
-                        width: 20%;
+                    position: relative;
+                    z-index: 1;
+                    @media(min-width: 1280px){
+                      display: none;
+                    }
+                }
+                .logo__color{
+                   display: none;
+                    @media(min-width: 1280px){
+                       display: block;
+                       margin: auto;
                     }
                 }
             }
@@ -1921,7 +1925,7 @@ body{
                 }
         }
         #staff{
-            padding: $padding*2 1rem;
+            padding: $padding*3 1rem $padding*2 1rem;
             @media(min-width: 768px){
                 padding: $padding*4 2rem 3rem 2rem;
             }
